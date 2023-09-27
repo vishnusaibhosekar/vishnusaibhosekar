@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS & Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://vishnusaibhosekar.github.io/my-portfolio/](https://vishnusaibhosekar.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://vishnusaibhosekar.com](https://vishnusaibhosekar.com)
 
 - 📫 How to reach me **vishnusaibhosekar@gmail.com**
 
