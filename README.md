@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu Sai Bhosekar</h1>
-<h3 align="center">I’m interested in anything related to cloud technologies</h3>
+<h3 align="center">I’m interested in anything related to GenAI and Cloud Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusaibhosekar&label=Profile%20views&color=0e75b6&style=flat" alt="vishnusaibhosekar" /> </p>
 
-- 🌱 I’m currently learning **AWS & Ruby on Rails**
+- 🌱 I’m currently learning **AWS & Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://vishnusaibhosekar.com](https://vishnusaibhosekar.com)
 
