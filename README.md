@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishnu Sai Bhosekar</h1>
 <h3 align="center">I’m interested in anything related to GenAI and Cloud Native</h3>
+<h1 align="center">I build software that’s fast, scalable, and built to last. Whether it’s front-end, back-end, or the cloud, I focus on crafting clean architectures and smooth user experiences. I love solving tough problems, optimizing systems, and pushing technology forward. From AI-driven automation to cloud-native applications, I’m all about creating products that make an impact.
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusaibhosekar&label=Profile%20views&color=0e75b6&style=flat" alt="vishnusaibhosekar" /> </p>
 
-- 🌱 I’m currently learning **AWS & Agentic AI**
+- 🌱 Currently working on **AWS & Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://vishnusaibhosekar.com](https://vishnusaibhosekar.com)
+- 👨‍💻 Find my projects here: [https://vishnusaibhosekar.com](https://vishnusaibhosekar.com)
 
-- 📫 How to reach me **vishnusaibhosekar@gmail.com**
+- 📫 Reach me here: **vishnusaibhosekar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
