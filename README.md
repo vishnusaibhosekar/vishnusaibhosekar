@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusaibhosekar&label=Profile%20views&color=0e75b6&style=flat" alt="vishnusaibhosekar" /> </p>
 
-- 🌱 Currently working on **Agentic AI**
-
-- 👨‍💻 Find my projects here: [https://vishnusaibhosekar.com](https://vishnusaibhosekar.com)
-
-- 📫 Reach me here: **vishnusaibhosekar@gmail.com**
+- Building stuff :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
