@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnu Sai Bhosekar</h1>
+<h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h5 align="justify">I build software that’s fast, scalable, and built to last. Whether it’s front-end, back-end, or the cloud, I focus on crafting clean architectures and smooth user experiences. I love solving tough problems, optimizing systems, and pushing technology forward. From AI-driven automation to cloud-native applications, I’m all about creating products that make an impact.
 </h5>
 
